@@ -6,4 +6,8 @@
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
+    <string name="dz">段子</string>
+    <string name="tg">图卦</string>
+    <string name="lh">乐活</string>
+    <string name="yt">意图</string>
 </resources>
